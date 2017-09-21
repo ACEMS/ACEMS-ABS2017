@@ -1,5 +1,5 @@
 # ACEMS-ABS2017
-This respository houses details for the ACEMS + ABS Collaborative Research Workshops held on October 17th, 2017. 
+This respository houses details for the ACEMS + ABS Collaborative Research Workshops to be held on October 17th, 2017. 
 
 There are two main resources in this repository. The Wiki and the Issues page, see the tabs above.     
 
